@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DataHubService": {
+      "commandName": "Project",
+      "commandLineArgs": "DataHubUpStream",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

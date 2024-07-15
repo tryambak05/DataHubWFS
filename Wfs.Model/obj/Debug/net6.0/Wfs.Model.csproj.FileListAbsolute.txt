@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\net6.0\Wfs.Model.deps.json
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\net6.0\Wfs.Model.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\net6.0\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\net6.0\ref\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\net6.0\Wfs.Model.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\ref\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\net6.0\Wfs.Model.csproj.AssemblyReference.cache

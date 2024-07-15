@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\Wfs.Business.deps.json
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\Wfs.Business.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\ref\Wfs.Business.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\Wfs.Business.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\bin\Debug\net6.0\Wfs.Model.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\ref\Wfs.Business.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Business\obj\Debug\net6.0\Wfs.Business.pdb

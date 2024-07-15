@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wfs.Model/1.0.0": {
+        "dependencies": {
+          "Wodsoft.Extensions.Configuration.Abstractions": "1.1.2"
+        },
+        "runtime": {
+          "Wfs.Model.dll": {}
+        }
+      },
+      "Wodsoft.Extensions.Configuration.Abstractions/1.1.2": {
+        "runtime": {
+          "lib/net45/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "1.1.2.0",
+            "fileVersion": "1.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wfs.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wodsoft.Extensions.Configuration.Abstractions/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-otCwcratSMWa6q7UA9x10IR6Wv/Dg/vCjKlb6m+Bzpp1fWYQbkGbRqZORIQn0njDzR+HGlBMSYLzHGn2uUSSCQ==",
+      "path": "wodsoft.extensions.configuration.abstractions/1.1.2",
+      "hashPath": "wodsoft.extensions.configuration.abstractions.1.1.2.nupkg.sha512"
+    }
+  }
+}

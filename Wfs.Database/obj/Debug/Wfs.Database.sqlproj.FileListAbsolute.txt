@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Database\bin\Debug\Wfs.Database.dacpac
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Database\bin\Debug\Wfs.Database.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Database\bin\Debug\Wfs.Database.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Database\obj\Debug\Wfs.Database.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Database\obj\Debug\Wfs.Database.pdb

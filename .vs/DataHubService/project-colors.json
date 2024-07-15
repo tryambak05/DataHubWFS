@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf815699-f317-4956-a2de-9315922d5ffc": {
+      "ProjectGuid": "cf815699-f317-4956-a2de-9315922d5ffc",
+      "DisplayName": "DataHubService",
+      "ColorIndex": 0
+    },
+    "662dc03d-95f3-4af0-903d-2569860f1334": {
+      "ProjectGuid": "662dc03d-95f3-4af0-903d-2569860f1334",
+      "DisplayName": "Wfs.Model",
+      "ColorIndex": 1
+    },
+    "40fc9534-5ef7-4bc3-8fff-b232adee2cbc": {
+      "ProjectGuid": "40fc9534-5ef7-4bc3-8fff-b232adee2cbc",
+      "DisplayName": "Wfs.Business",
+      "ColorIndex": 2
+    },
+    "53130cb2-03f7-48fe-b1b1-237e93645c41": {
+      "ProjectGuid": "53130cb2-03f7-48fe-b1b1-237e93645c41",
+      "DisplayName": "Wfs.Tests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bf6b167e-be85-48e6-b2a3-0a825699cfb1": {
+      "ProjectGuid": "bf6b167e-be85-48e6-b2a3-0a825699cfb1",
+      "DisplayName": "Wfs.Database",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

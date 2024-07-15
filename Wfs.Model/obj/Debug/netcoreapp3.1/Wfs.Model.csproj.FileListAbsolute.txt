@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\netcoreapp3.1\Wfs.Model.deps.json
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\netcoreapp3.1\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\bin\Debug\netcoreapp3.1\Wfs.Model.pdb
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.dll
+C:\Users\ADMIN\Desktop\DataHubService\Wfs.Model\obj\Debug\netcoreapp3.1\Wfs.Model.pdb
